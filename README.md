@@ -4,7 +4,7 @@
 - 💞️ I’m looking to work as a full stack web developer in  future. 
 - 📫 How to reach me? 
 Facebook - Ku Shal 
-Instagram - 10Kushal
+
 
 <!---
 Kushal10Nepali/Kushal10Nepali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
